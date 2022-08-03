@@ -52,7 +52,7 @@ Receita de bolo 2:
 * Cada **forma geométrica** define uma **função** genérica;
 * As formas geométricas são ligadas por flechas que indicam o fluxo de execução.  
 
-> Terminal - Representa o inicio ou o fim do fluxograma  
+> Terminal - Representa o inicio ou o fim do fluxograma
 ![Terminal](https://user-images.githubusercontent.com/110063335/182710018-da54fc22-9a1d-4bee-99cb-9a9fce96fd9b.png)
 
 > Entrada Manual - Determina a entrada manual de dados
