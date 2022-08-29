@@ -17,7 +17,7 @@
 ### Lógica Formal
 
 * Aristóteles, Grécia Antiga;
-* Analisa e representa a forma de qualquer **argumento** para que possa ser **considerada válida**;
+* Analisa e representa a forma de qualquer **argumento** para que possa ser **considerada válido**;
 * Lida com as **relações entre premissas e as conclusões**;
 * `Não importa se as premissas são verdadeiras ou falsas`, o importante é chegar a uma conclusão;
 * A partir de duas ou mais premissas chegamos a uma **conclusão**.
@@ -26,6 +26,23 @@ Exemplos:
 > Todos os homens são mortais. P1  
 > Elias é homem. P2  
 > Logo, Elias é mortal. Conc
+
+### Lógica Transcendental
+
+* O conhecimento humano parte de duas fontes: empírico e puro;
+* Opera através de representações dos conceitos e não dos objetos em si.
+
+#### Conhecimento Empírico
+
+* Também chamado de conhecimento posteriori;
+* Trata da impressão por meio dos sentidos;
+* Como por exemplo eu determinar a forma de algo a partir do toque ou inferir uma verdade a partir da minha visão.
+
+#### Conhecimento Puro
+
+* Também conhecido como conhecimento priori;
+* Trata da faculdade de conhecer algo a partir de representações mentais e do pensamento, puramente racional;
+* Como por exemplo eu ter opiniões sobre ideias abstrata ou estudar sobre algo e entender como funciona.
 
 ### Proposição
 
@@ -67,6 +84,10 @@ Exemplo:
 > José é brasileiro  
 > Logo concluo que José torce para o Brasil
 
+### Paradoxo
+
+* Argumento que, apesar de aparentemente correto, apresenta uma contradição, ou apresenta uma oposição a uma verdade absoluta.
+
 ### Três Princípios da Lógica Clássica
 
 Funcionam como leis, que regem a formulação de conclusões sobre premissas.  
@@ -107,6 +128,8 @@ Operadores Lógicos:
     Problema de existência: Existe algum arranjo de objeto satisfazendo determinada propriedade?  
     Problema de contagem: Quantos arranjos desse tipo existem?  
     Problema de otimização: Qual a melhor configuração de um determinado critério.  
+
+### Listas
 
 #### Arranjos
 

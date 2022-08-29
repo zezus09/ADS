@@ -26,7 +26,13 @@ Exemplo:
 Exemplo:  
 > A = {x ∈ R | x² < 0}
 
+**Conjunto de par ordenado:** Possui apenas 2 elementos.  
+Exemplo:  
+> A = {1,2}
+
 **Conjunto universo:** Conjunto que contém todos os outros conjuntos.  
+Exemplo:  
+> A = {1,2,3,4} - B = {1,2} - C = {3,4}
 
 ## Diagrama de Venn
 

@@ -2,9 +2,9 @@
 
 ## Proposições
 
-* É uma sentença declarativa que pode ser classificada de forma binária como verdadeiro ou falso;
-* A proposição simples ocorre quando há apenas uma afirmação na frase;
-* A proposição composta ocorre quando há mais de uma afirmação ligadas por um conectivo.
+* É uma sentença declarativa que pode ser classificada de forma binária como **verdadeiro ou falso**;
+* A proposição simples ocorre quando há **apenas uma afirmação** na frase;
+* A proposição composta ocorre quando há **mais de uma afirmação** ligadas por um **conectivo**.
 
 ### Proposição simples
 
@@ -86,13 +86,13 @@ Exemplo:
 
 ## Argumento, hipótese e conclusão
 
-* Um argumento é composto por hipótese e conclusão;
-* As proposições são ligadas pelo conectivo de conjunção as quais implicam logicamente na conclusão;
-* A ligação entre hipótese e conclusão é feita pelo conectivo condicional;
-* É importante validar os argumentos por meio das regras de equivalência e inferência lógica;
-* As regras permitem avaliar a relação entre a hipótese e conclusão, que pode ser chamada de consequência lógica;
-* Uma preposição pode ser verdadeira ou falso, mas não pode ser válida ou inválida;
-* Um argumento pode ser válido ou inválido, mas não pode ser verdadeiro ou falso;
+* Um argumento é composto por **hipótese e conclusão**;
+* As proposições são ligadas pelo **conectivo de conjunção** as quais implicam logicamente na conclusão;
+* A ligação entre hipótese e conclusão é feita pelo **conectivo condicional**;
+* É importante validar os argumentos por meio das regras de **equivalência e inferência lógica**;
+* As regras permitem avaliar a relação entre a hipótese e conclusão, que pode ser chamada de **consequência lógica**;
+* Uma preposição pode ser **verdadeira ou falso**, mas não pode ser válida ou inválida;
+* Um argumento pode ser **válido ou inválido**, mas não pode ser verdadeiro ou falso;
 
 Exemplo:
 > D. Pedro I proclamou a independência do Brasil e Thomas Jefferson escreveu a Declaração da Inpendência dos Estados Unidos. Portanto, todo dia tem 24 horas.  
