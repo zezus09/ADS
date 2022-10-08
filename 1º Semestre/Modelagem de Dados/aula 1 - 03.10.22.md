@@ -10,9 +10,9 @@
 * Banco de dados são coleções inter-relacionados de arquivos;
 * É uma coletânia de dados dúraveis e acessíveis a vários softwares;
 * Cada processo da organização tem dados específicos e pode conter dados comuns entre outros processos:
-    * Cadastro de produto
-    * Contato do cliente
-    * Venda: produto > cliente
+  * Cadastro de produto
+  * Contato do cliente
+  * Venda: produto > cliente
 
 ### Funções
 
@@ -55,12 +55,12 @@
 * Não estático;
 * Informações acomodadas em tabelas e linhas;
 * Operações baseada em álgebra relacional e teoria de conjuntos.
-    * Seleção
-    * Subtração
-    * União
-    * Produto cartersiano
-    * Junção
-    * Projeção
+  * Seleção
+  * Subtração
+  * União
+  * Produto cartersiano
+  * Junção
+  * Projeção
 
 > Exemplo  
 
