@@ -26,7 +26,7 @@
 * Melhoria da qualidade dos processos e dos produtos;
 * Muitos processos têm redução de sua complexidade e tornam-se mais simples, facilitando a interação entre áreas;
 * Aumento do envolvimento e comprometimento dos stakeholders.
-            
+
 ## Business Process Modeling Notation (BPMN)
 
 * Atividade: Processos e subprocessos;
